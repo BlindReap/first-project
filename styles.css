@@ -1,0 +1,62 @@
+* {
+    font-family: 'Baloo Tammudu 2';
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#title1 {
+    text-align: center;
+    color: springgreen;
+}
+
+.thead1 {
+    background-color: springgreen;
+}
+
+.div1{
+    width:100%;
+    padding-bottom: 100px;
+    }
+    
+table, th, td {
+      border: 1px solid black;
+      border-radius: 2px;
+    }
+.table1{
+    margin: 0 auto;
+    }
+
+
+
+#title2 {
+        text-align: center;
+        color: rgb(206, 17, 174);
+    }
+    
+.thead2 {
+        background-color: rgb(206, 17, 174);
+    }
+    
+.div2{
+        width:100%;
+        padding-bottom: 100px;
+        }
+        
+.table2{
+        margin: 0 auto;
+        }
+
+.div3 {
+    background-color:silver;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.div3 p {
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 20px;
+}
